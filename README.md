@@ -12,7 +12,7 @@
 
 ### Datasets information
 
-| Dataset | # Nodes    |Node types                             | Meta-paths                                            | Meta-path instances| # Labels | # Features |
+| Dataset | # Nodes    |Node types                             | Meta-paths                                            | # Meta-path instances| # Labels | # Features |
 |:-------:|:----------:|:-------------------------------------:|:-----------------------------------------------------:|:------------------:|:--------:|:----------:|
 | DBLP    | 14475(A)   | Author(A)<br>Paper(P)<br>Conference(C)| APA<br>APCPA                                          | 40269<br>19445349  | 4        | 5000<sup>+</sup>       |
 | SLAP    | 20419(G)   | Gene(G)<br>Gene Ontology(O)<br>Pathway(P)<br>Compound(C)<br>Tissue(T)<br>Gene Family(F)<br>Disease(D) | GTG<br>GFG<br>GDG<br>GPG<br>GOG<br>GG<br>GDCDG | 303487<br>582741<br>7494<br>416462<br>3185779<br>172248<br>18095 | 15 | 2695 |
